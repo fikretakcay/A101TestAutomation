@@ -1,0 +1,9 @@
+base\BasePage.class
+page\HomePage.class
+page\BasketPage.class
+scenarios\BaseTest.class
+page\CardInformationDetails.class
+page\WithoutMemberClass.class
+scenarios\Test_Add_Product.class
+page\SearchPage.class
+page\AddressPage.class
